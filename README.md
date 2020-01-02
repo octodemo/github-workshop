@@ -15,6 +15,8 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 
 **Phase 2: Create your first action**
   > **The goal of Phase 2 is to Create a simple GitHub Action and use it in a workflow.**
+  1. Star this repository so we know you have taken this workshop!
+  1. Fork this repository to your GitHub Account. (Fork button on top right of Repo)
   1. Go to the `hello world` [actions module](https://lab.github.com/github/hello-github-actions!)
   1. In this phase, you’ll learn how to:
 
