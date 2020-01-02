@@ -18,6 +18,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
   1. Star this repository so we know you have taken this workshop!
   1. Fork this repository to your GitHub Account. (Fork button on top right of Repo)
   1. Go to the `hello world` [actions module](https://lab.github.com/github/hello-github-actions!)
+-----
 **In this phase, you’ll learn how to:**
 
 - Organize and identify workflow files
@@ -29,6 +30,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 **Phase 3: Continuous Integration with Actions**
   > **The goal of Phase 3 is to Learn how to create workflows that enable you to use Continuous Integration (CI) for your projects.**
   1. Go to the `Continuous Integration` [actions module](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
+-----
 **In this phase, you’ll learn how to:**
 
 - Describe CI and why it is necessary
@@ -45,6 +47,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 **Phase 4: Publish your Artifact to GitHub Packages**
   > **The goal of Phase 4 is to walk you through using GitHub Actions to get your code in a deployable state once your CI workflows have completed.**
   1. Go to the `Artifact Publishing` [actions module](https://lab.github.com/githubtraining/github-actions:-publish-to-github-packages)
+-----
 **In this phase, you’ll learn how to:**
 
 - Describe CD and why it is necessary
@@ -57,6 +60,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 **Phase 5: Continuous Delivery**
   > **The goal of Phase 5 is to Create two deployment workflows using AWS or Azure.**
   1. Go to the `Continuous Delivery` [actions module](https://lab.github.com/githubtraining/github-actions:-continuous-delivery)
+-----
 **In this phase, you’ll learn how to:**
 
 - Create two workflow files
