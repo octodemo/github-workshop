@@ -8,10 +8,6 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
   > **The goal of Phase 1 is to understand the major concepts that will be leveraged throughout the workshop. Documentation should be read carefully and referred to often.**
   1. [Understanding Actions](https://help.github.com/en/github/automating-your-workflow-with-github-actions/about-github-actions#core-concepts-for-github-actions).
   1. [Creating a workflow](https://help.github.com/en/github/automating-your-workflow-with-github-actions/configuring-a-workflow).
-  1. Integrating a 3rd party service with the [repository dispatch event](https://developer.github.com/v3/repos/#create-a-repository-dispatch-event).
-  1. GitHub API - [Creating an Issue](https://developer.github.com/v3/issues/).
-  1. [How to use Postman](https://learning.getpostman.com/getting-started/) to send an API request.
-  ![Postman](/images/postman.png)
 
 **Phase 2: Create your first action**
   > **The goal of Phase 2 is to Create a simple GitHub Action and use it in a workflow.**
