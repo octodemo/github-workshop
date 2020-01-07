@@ -10,7 +10,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
   > **GitHub Fundamentals**
   1. Star this repository so we know you have taken this workshop!
   1. Fork this repository to your GitHub Account. (Fork button on top right of Repo)
-  1. [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+  1. Go to the `Introduction to GitHub` [module](https://lab.github.com/githubtraining/introduction-to-github)
 
 **In this course, you’ll learn how to:**
 
@@ -22,7 +22,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 
 ### Phase 2: Security Strategy & Essentials:
   > **This course will show you how to build, host, and maintain a secure repository on GitHub.**
-  1. [Security Essentials](https://lab.github.com/githubtraining/security-strategy-essentials)
+  1. Go to the `Security Essentials` [module](https://lab.github.com/githubtraining/security-strategy-essentials)
 
   **In this course, you’ll learn how to:**
 - Enable vulnerable dependency detection for private repositories
