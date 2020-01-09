@@ -89,6 +89,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 
 ### Additional Documentation
   > **The goal of Phase 1 is to understand the major concepts that will be leveraged throughout the workshop. Documentation should be read carefully and referred to often.**
+  1. [All things GitHub](https://help.github.com/en/github)
   1. [Understanding Actions](https://help.github.com/en/github/automating-your-workflow-with-github-actions/about-github-actions#core-concepts-for-github-actions)
   1. [Creating a workflow](https://help.github.com/en/github/automating-your-workflow-with-github-actions/configuring-a-workflow)
 
