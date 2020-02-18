@@ -76,8 +76,9 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 - Access saved build artifacts
 
 ### Phase 6: Continuous Delivery
-  > **The goal of Phase 5 is to Create two deployment workflows using AWS or Azure.**
-  1. Go to the `Continuous Delivery` [actions module](https://lab.github.com/githubtraining/github-actions:-continuous-delivery)
+  > **FINAL: The goal of Phase 6 is to create a deployment workflow using Azure.**
+  1. Go to the `Action Samples for deploying to Azure Web apps` [actions module](https://github.com/Azure/actions-workflow-samples/tree/master/AppService)
+  2. Choose a sample app, and deploy it to Azure. 
 
 **In this phase, you’ll learn how to:**
 
