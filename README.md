@@ -82,8 +82,8 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 
 **In this phase, you’ll learn how to:**
 
-- Create two workflow files
-- Configure AWS S3 for deployment
+- Create multiple workflows
+- Configure Azure for deployment
 - Use secrets to store tokens
 - Deploy to staging and production
 - Practice using GitHub Actions
