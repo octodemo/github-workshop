@@ -77,7 +77,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 
 ### Phase 6: Continuous Delivery
   > **FINAL: The goal of Phase 6 is to create a deployment workflow using Azure.**
-  1. Go to the `Action Samples for deploying to Azure Web apps` [actions module](https://github.com/Azure/actions-workflow-samples/tree/master/AppService)
+  1. Go to the `Action Samples for deploying to Azure Web apps` [actions module](https://github.com/Azure/actions-workflow-samples/tree/master/AppService#create-azure-web-app-and-deploy-using-github-actions)
   2. Choose a sample app, and deploy it to Azure. 
 
 **In this phase, you’ll learn how to:**
