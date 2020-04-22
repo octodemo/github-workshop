@@ -36,6 +36,7 @@ Your moderator will likely be vastly out numbered during your workshop - therefo
 ### Phase 3: Create your first action
   > **The goal of Phase 2 is to Create a simple GitHub Action and use it in a workflow.**
   1. Go to the `hello world` [actions module](https://lab.github.com/github/hello-github-actions!)
+  1. Review the official [GitHub Actions resources](https://github.com/alwell-kevin/awesome-actions#official-resources).
 
 **In this phase, you’ll learn how to:**
 
