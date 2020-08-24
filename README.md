@@ -4,7 +4,7 @@ This Workshop will teach you the fundamentals of GitHub, security strategy and e
 
 GitHub Actions is an advanced feature of GitHub that enables automation, artifact management and CI/CD natively. This workshop aims to educate you on how to implement these workflows across your projects on GitHub.
 
-Your moderator will likely be vastly out numbered during your workshop - therefore please rely heavily on the documentation provided and available on [help.github.com](https://help.github.com/en). When you are complete, feel free to ask for feedback from your moderator and remember the best way to learn is to teach!
+If you have a moderator, they will likely be vastly out numbered during your workshop - please rely heavily on the documentation provided and available on [help.github.com](https://help.github.com/en). When you are complete, feel free to ask for feedback from your moderator and remember the best way to learn is to teach!
 
 ### Phase 1: Introduction to GitHub
   > **GitHub Fundamentals**
